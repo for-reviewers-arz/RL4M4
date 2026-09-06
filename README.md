@@ -225,7 +225,7 @@ literal equations in the method description:
 ```bibtex
 @article{rl4m4,
   title   = {RL4M4: Reinforcement Learning for Multi-Modal Missing-Modality Retrieval},
-  author  = {<Your Name>},
+  author  = {<->},
   year    = {2026},
   note    = {Preprint}
 }
