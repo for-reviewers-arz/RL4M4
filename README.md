@@ -231,6 +231,5 @@ literal equations in the method description:
 }
 ```
 
-## License
 
 
