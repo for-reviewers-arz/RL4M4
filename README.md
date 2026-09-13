@@ -233,4 +233,4 @@ literal equations in the method description:
 
 ## License
 
-Add your license of choice here (e.g., MIT, Apache-2.0).
+
